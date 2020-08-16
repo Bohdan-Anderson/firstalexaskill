@@ -1,0 +1,118 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Listen to AOS Radio, less bla bla bla, more la la la.",
+          "examplePhrases": [
+            "Alexa, open Sandbanks Radio",
+            "Alexa, play Sandbanks Radio",
+            "Alexa, it's Sandbanks time"
+          ],
+          "keywords": [
+            "music",
+            "streaming",
+            "radio"
+          ],
+          "name": "AOS Radio",
+          "description": "Listen to AOS Radio, with less bla bla bla, and more la la la.\n\nAOS Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch AOS Radio\" or \"Alexa, play AOS Radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
+          "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
+        },
+        "en-GB": {
+          "summary": "Listen to AOS Radio, less bla bla bla, more la la la.",
+          "examplePhrases": [
+            "Alexa, open Sandbanks Radio",
+            "Alexa, play Sandbanks Radio",
+            "Alexa, it's Sandbanks time"
+          ],
+          "keywords": [
+            "music",
+            "streaming",
+            "radio"
+          ],
+          "name": "AOS Radio",
+          "description": "Listen to AOS Radio, with less bla bla bla, and more la la la.\n\nAOS Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch AOS Radio\" or \"Alexa, play AOS Radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
+          "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
+        },
+        "en-IN": {
+          "summary": "Listen to AOS Radio, less bla bla bla, more la la la.",
+          "examplePhrases": [
+            "Alexa, open Sandbanks Radio",
+            "Alexa, play Sandbanks Radio",
+            "Alexa, it's Sandbanks time"
+          ],
+          "keywords": [
+            "music",
+            "streaming",
+            "radio"
+          ],
+          "name": "AOS Radio",
+          "description": "Listen to AOS Radio, with less bla bla bla, and more la la la.\n\nAOS Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch AOS Radio\" or \"Alexa, play AOS Radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
+          "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
+        },
+        "en-CA": {
+          "summary": "Listen to AOS Radio, less bla bla bla, more la la la.",
+          "examplePhrases": [
+            "Alexa, open Sandbanks Radio",
+            "Alexa, play Sandbanks Radio",
+            "Alexa, it's Sandbanks time"
+          ],
+          "keywords": [
+            "music",
+            "streaming",
+            "radio"
+          ],
+          "name": "AOS Radio",
+          "description": "Listen to AOS Radio, with less bla bla bla, and more la la la.\n\nAOS Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch AOS Radio\" or \"Alexa, play AOS Radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
+          "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
+        },
+        "en-AU": {
+          "summary": "Listen to AOS Radio, less bla bla bla, more la la la.",
+          "examplePhrases": [
+            "Alexa, open Sandbanks Radio",
+            "Alexa, play Sandbanks Radio",
+            "Alexa, it's Sandbanks time"
+          ],
+          "keywords": [
+            "music",
+            "streaming",
+            "radio"
+          ],
+          "name": "AOS Radio",
+          "description": "Listen to AOS Radio, with less bla bla bla, and more la la la.\n\nAOS Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch AOS Radio\" or \"Alexa, play AOS Radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
+          "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Include your testing instruction (if any) here",
+      "category": "STREAMING_SERVICE",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda"
+        },
+        "interfaces": [
+          {
+            "type": "AUDIO_PLAYER"
+          }
+        ]
+      }
+    },
+    "manifestVersion": "1.0",
+    "permissions": [],
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
